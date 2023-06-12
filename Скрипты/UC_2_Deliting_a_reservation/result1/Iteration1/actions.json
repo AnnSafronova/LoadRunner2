@@ -1,0 +1,75 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1686054796087
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1686054796322
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t4.inf",
+                "time": 1686054796524
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t5.inf",
+                "time": 1686054796853
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "goToSite",
+                "rawStartTime": 1686054795945,
+                "rawEndTime": 1686054796088,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07001161575317383
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1686054796118,
+                "rawEndTime": 1686054796324,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005644083023071289
+            },
+            {
+                "transactionName": "viewing_receipt",
+                "rawStartTime": 1686054796355,
+                "rawEndTime": 1686054796544,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004243373870849609
+            },
+            {
+                "transactionName": "cancel_booking",
+                "rawStartTime": 1686054796576,
+                "rawEndTime": 1686054796751,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1686054796783,
+                "rawEndTime": 1686054796853,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0033845901489257814
+            },
+            {
+                "transactionName": "02_delite",
+                "rawStartTime": 1686054795929,
+                "rawEndTime": 1686054796862,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08328366279602051
+            }
+        ]
+    }
+]

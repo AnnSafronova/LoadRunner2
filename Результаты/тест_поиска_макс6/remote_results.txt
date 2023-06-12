@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\users\diana\onedrive\рабочий стол\сценарии и результаты\тест_поиска_макс6\localhost_22.eve

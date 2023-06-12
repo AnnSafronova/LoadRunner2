@@ -1,0 +1,51 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2020.0.0.0
+Path=C:\Users\diana\OneDrive\Рабочий стол\сценарии и результаты\Сценарии\тест_поиска_макс4.lrs
+Subject=Отладочный
+Result_file=c:\users\diana\onedrive\рабочий стол\сценарии и результаты\тест_поиска_макс6\тест_поиска_макс6.lrr
+Description=
+ResultName=Тест_поиска_макс6
+Time_Zone=-14400
+Start_time=1686495526
+Daylight_Bias=0
+Stop_time=1686502298
+
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+
+[Data Collection]
+FullData=1
+SummaryEnded=1
+
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 1 every 00:00:03 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:03 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:03 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:03 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:03 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers simultaneously
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST10_1E3;R1320;ST10_1E3;R1320;ST10_1E3;R1320;ST10_1E3;R1320;ST10_1E3;R1320;SP50;
+
+[Scripts]
+UC_1_Buy_a_ticket=D:\temp\new_script\UC_1_Buy_a_ticket\UC_1_Buy_a_ticket.usr
+UC_3_Search_tickets_without_payment=D:\temp\new_script\UC_3_Search_tickets_without_payment\UC_3_Search_tickets_without_payment.usr
+UC_4_Check_reservation=D:\temp\new_script\UC_4_Check_reservation\UC_5_Check_reservation.usr
+UC_06_SearchTicketNoSelect=D:\temp\new_script\UC_06_SearchTicketNoSelect\UC_07_SearchTicketNoSelect.usr
+UC_5_creatingNewAccount=D:\temp\new_script\UC_5_creatingNewAccount\UC_6_registration_new_users.usr
+UC_2_Deliting_a_reservation=D:\temp\new_script\UC_2_Deliting_a_reservation\UC_2_Deliting_a_reservation.usr
+
+[Scripts_types]
+UC_1_Buy_a_ticket=Multi+QTWeb
+UC_3_Search_tickets_without_payment=Multi+QTWeb
+UC_4_Check_reservation=Multi+QTWeb
+UC_06_SearchTicketNoSelect=Multi+QTWeb
+UC_5_creatingNewAccount=Multi+QTWeb
+UC_2_Deliting_a_reservation=Multi+QTWeb
+

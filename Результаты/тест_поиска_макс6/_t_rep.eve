@@ -1,0 +1,253 @@
+28 11 1686495526 2 57452808 -762234409 1699572
+28 4 UC_1_Buy_a_ticket 1 1686495528 0 UC_1_Buy_a_ticket localhost 0 1
+28 10 localhost 28 0 0
+28 0 UC_1_Buy_a_ticket 1 1686495528 0 localhost 0
+28 8 UC_1_Buy_a_ticket 1  0 0
+28 2 UC_1_Buy_a_ticket 1 1686495528 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 1 1686495529 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 1 1686495529 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 1  0 0
+28 2 UC_3_Search_tickets_without_payment 1 1686495529 0 p 0 0
+28 4 UC_4_Check_reservation 1 1686495532 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 1 1686495532 0 localhost 0
+28 8 UC_4_Check_reservation 1  0 0
+28 2 UC_4_Check_reservation 1 1686495532 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 1 1686495535 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 1 1686495535 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 1  0 0
+28 2 UC_06_SearchTicketNoSelect 1 1686495535 0 p 0 0
+28 4 UC_5_creatingNewAccount 1 1686495539 0 UC_5_creatingNewAccount localhost 0 1
+28 0 UC_5_creatingNewAccount 1 1686495539 0 localhost 0
+28 8 UC_5_creatingNewAccount 1  0 0
+28 2 UC_5_creatingNewAccount 1 1686495539 0 p 0 0
+28 4 UC_2_Deliting_a_reservation 1 1686495542 0 UC_2_Deliting_a_reservation localhost 0 1
+28 0 UC_2_Deliting_a_reservation 1 1686495542 0 localhost 0
+28 8 UC_2_Deliting_a_reservation 1  0 0
+28 2 UC_2_Deliting_a_reservation 1 1686495542 0 p 0 0
+28 4 UC_4_Check_reservation 2 1686495544 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 2 1686495544 0 localhost 0
+28 8 UC_4_Check_reservation 2  0 0
+28 2 UC_4_Check_reservation 2 1686495544 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 2 1686495547 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 2 1686495547 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 2  0 0
+28 2 UC_3_Search_tickets_without_payment 2 1686495547 0 p 0 0
+28 4 UC_1_Buy_a_ticket 2 1686495550 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 2 1686495550 0 localhost 0
+28 8 UC_1_Buy_a_ticket 2  0 0
+28 2 UC_1_Buy_a_ticket 2 1686495550 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 2 1686495553 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 2 1686495553 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 2  0 0
+28 2 UC_06_SearchTicketNoSelect 2 1686495554 0 p 0 0
+28 4 UC_4_Check_reservation 3 1686496874 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 3 1686496874 0 localhost 0
+28 8 UC_4_Check_reservation 3  0 0
+28 2 UC_4_Check_reservation 3 1686496874 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 3 1686496877 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 3 1686496877 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 3  0 0
+28 2 UC_3_Search_tickets_without_payment 3 1686496877 0 p 0 0
+28 4 UC_1_Buy_a_ticket 3 1686496880 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 3 1686496880 0 localhost 0
+28 8 UC_1_Buy_a_ticket 3  0 0
+28 2 UC_1_Buy_a_ticket 3 1686496880 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 3 1686496883 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 3 1686496883 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 3  0 0
+28 2 UC_06_SearchTicketNoSelect 3 1686496883 0 p 0 0
+28 4 UC_5_creatingNewAccount 2 1686496886 0 UC_5_creatingNewAccount localhost 0 1
+28 0 UC_5_creatingNewAccount 2 1686496886 0 localhost 0
+28 8 UC_5_creatingNewAccount 2  0 0
+28 2 UC_5_creatingNewAccount 2 1686496886 0 p 0 0
+28 4 UC_2_Deliting_a_reservation 2 1686496889 0 UC_2_Deliting_a_reservation localhost 0 1
+28 0 UC_2_Deliting_a_reservation 2 1686496889 0 localhost 0
+28 8 UC_2_Deliting_a_reservation 2  0 0
+28 2 UC_2_Deliting_a_reservation 2 1686496889 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 4 1686496892 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 4 1686496892 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 4  0 0
+28 2 UC_3_Search_tickets_without_payment 4 1686496892 0 p 0 0
+28 4 UC_4_Check_reservation 4 1686496895 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 4 1686496895 0 localhost 0
+28 8 UC_4_Check_reservation 4  0 0
+28 2 UC_4_Check_reservation 4 1686496895 0 p 0 0
+28 4 UC_1_Buy_a_ticket 4 1686496898 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 4 1686496898 0 localhost 0
+28 8 UC_1_Buy_a_ticket 4  0 0
+28 2 UC_1_Buy_a_ticket 4 1686496898 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 4 1686496901 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 4 1686496901 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 4  0 0
+28 2 UC_06_SearchTicketNoSelect 4 1686496901 0 p 0 0
+28 4 UC_4_Check_reservation 5 1686498221 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 5 1686498221 0 localhost 0
+28 8 UC_4_Check_reservation 5  0 0
+28 2 UC_4_Check_reservation 5 1686498221 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 5 1686498224 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 5 1686498224 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 5  0 0
+28 2 UC_3_Search_tickets_without_payment 5 1686498224 0 p 0 0
+28 4 UC_1_Buy_a_ticket 5 1686498227 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 5 1686498227 0 localhost 0
+28 8 UC_1_Buy_a_ticket 5  0 0
+28 2 UC_1_Buy_a_ticket 5 1686498227 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 5 1686498230 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 5 1686498230 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 5  0 0
+28 2 UC_06_SearchTicketNoSelect 5 1686498230 0 p 0 0
+28 4 UC_5_creatingNewAccount 3 1686498233 0 UC_5_creatingNewAccount localhost 0 1
+28 0 UC_5_creatingNewAccount 3 1686498233 0 localhost 0
+28 8 UC_5_creatingNewAccount 3  0 0
+28 2 UC_5_creatingNewAccount 3 1686498233 0 p 0 0
+28 4 UC_2_Deliting_a_reservation 3 1686498236 0 UC_2_Deliting_a_reservation localhost 0 1
+28 0 UC_2_Deliting_a_reservation 3 1686498236 0 localhost 0
+28 8 UC_2_Deliting_a_reservation 3  0 0
+28 2 UC_2_Deliting_a_reservation 3 1686498236 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 6 1686498239 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 6 1686498239 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 6  0 0
+28 2 UC_3_Search_tickets_without_payment 6 1686498239 0 p 0 0
+28 4 UC_4_Check_reservation 6 1686498242 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 6 1686498242 0 localhost 0
+28 8 UC_4_Check_reservation 6  0 0
+28 2 UC_4_Check_reservation 6 1686498242 0 p 0 0
+28 4 UC_1_Buy_a_ticket 6 1686498245 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 6 1686498245 0 localhost 0
+28 8 UC_1_Buy_a_ticket 6  0 0
+28 2 UC_1_Buy_a_ticket 6 1686498245 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 6 1686498248 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 6 1686498248 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 6  0 0
+28 2 UC_06_SearchTicketNoSelect 6 1686498248 0 p 0 0
+28 4 UC_4_Check_reservation 7 1686499568 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 7 1686499568 0 localhost 0
+28 8 UC_4_Check_reservation 7  0 0
+28 2 UC_4_Check_reservation 7 1686499568 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 7 1686499571 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 7 1686499571 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 7  0 0
+28 2 UC_3_Search_tickets_without_payment 7 1686499571 0 p 0 0
+28 4 UC_1_Buy_a_ticket 7 1686499574 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 7 1686499574 0 localhost 0
+28 8 UC_1_Buy_a_ticket 7  0 0
+28 2 UC_1_Buy_a_ticket 7 1686499574 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 7 1686499578 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 7 1686499578 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 7  0 0
+28 2 UC_06_SearchTicketNoSelect 7 1686499578 0 p 0 0
+28 4 UC_5_creatingNewAccount 4 1686499581 0 UC_5_creatingNewAccount localhost 0 1
+28 0 UC_5_creatingNewAccount 4 1686499581 0 localhost 0
+28 8 UC_5_creatingNewAccount 4  0 0
+28 2 UC_5_creatingNewAccount 4 1686499581 0 p 0 0
+28 4 UC_2_Deliting_a_reservation 4 1686499584 0 UC_2_Deliting_a_reservation localhost 0 1
+28 0 UC_2_Deliting_a_reservation 4 1686499584 0 localhost 0
+28 8 UC_2_Deliting_a_reservation 4  0 0
+28 2 UC_2_Deliting_a_reservation 4 1686499584 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 8 1686499587 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 8 1686499587 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 8  0 0
+28 2 UC_3_Search_tickets_without_payment 8 1686499587 0 p 0 0
+28 4 UC_4_Check_reservation 8 1686499590 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 8 1686499590 0 localhost 0
+28 8 UC_4_Check_reservation 8  0 0
+28 2 UC_4_Check_reservation 8 1686499590 0 p 0 0
+28 4 UC_1_Buy_a_ticket 8 1686499593 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 8 1686499593 0 localhost 0
+28 8 UC_1_Buy_a_ticket 8  0 0
+28 2 UC_1_Buy_a_ticket 8 1686499593 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 8 1686499596 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 8 1686499596 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 8  0 0
+28 2 UC_06_SearchTicketNoSelect 8 1686499596 0 p 0 0
+28 4 UC_4_Check_reservation 9 1686500916 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 9 1686500916 0 localhost 0
+28 8 UC_4_Check_reservation 9  0 0
+28 2 UC_4_Check_reservation 9 1686500916 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 9 1686500919 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 9 1686500919 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 9  0 0
+28 2 UC_3_Search_tickets_without_payment 9 1686500919 0 p 0 0
+28 4 UC_1_Buy_a_ticket 9 1686500922 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 9 1686500922 0 localhost 0
+28 8 UC_1_Buy_a_ticket 9  0 0
+28 2 UC_1_Buy_a_ticket 9 1686500922 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 9 1686500925 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 9 1686500925 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 9  0 0
+28 2 UC_06_SearchTicketNoSelect 9 1686500925 0 p 0 0
+28 4 UC_5_creatingNewAccount 5 1686500928 0 UC_5_creatingNewAccount localhost 0 1
+28 0 UC_5_creatingNewAccount 5 1686500928 0 localhost 0
+28 8 UC_5_creatingNewAccount 5  0 0
+28 2 UC_5_creatingNewAccount 5 1686500928 0 p 0 0
+28 4 UC_2_Deliting_a_reservation 5 1686500931 0 UC_2_Deliting_a_reservation localhost 0 1
+28 0 UC_2_Deliting_a_reservation 5 1686500931 0 localhost 0
+28 8 UC_2_Deliting_a_reservation 5  0 0
+28 2 UC_2_Deliting_a_reservation 5 1686500931 0 p 0 0
+28 4 UC_3_Search_tickets_without_payment 10 1686500934 0 UC_3_Search_tickets_without_payment localhost 0 1
+28 0 UC_3_Search_tickets_without_payment 10 1686500934 0 localhost 0
+28 8 UC_3_Search_tickets_without_payment 10  0 0
+28 2 UC_3_Search_tickets_without_payment 10 1686500934 0 p 0 0
+28 4 UC_4_Check_reservation 10 1686500937 0 UC_4_Check_reservation localhost 0 1
+28 0 UC_4_Check_reservation 10 1686500937 0 localhost 0
+28 8 UC_4_Check_reservation 10  0 0
+28 2 UC_4_Check_reservation 10 1686500937 0 p 0 0
+28 4 UC_1_Buy_a_ticket 10 1686500940 0 UC_1_Buy_a_ticket localhost 0 1
+28 0 UC_1_Buy_a_ticket 10 1686500940 0 localhost 0
+28 8 UC_1_Buy_a_ticket 10  0 0
+28 2 UC_1_Buy_a_ticket 10 1686500940 0 p 0 0
+28 4 UC_06_SearchTicketNoSelect 10 1686500943 0 UC_06_SearchTicketNoSelect localhost 0 1
+28 0 UC_06_SearchTicketNoSelect 10 1686500943 0 localhost 0
+28 8 UC_06_SearchTicketNoSelect 10  0 0
+28 2 UC_06_SearchTicketNoSelect 10 1686500943 0 p 0 0
+28 1 UC_06_SearchTicketNoSelect 9 1686502263 0 2
+28 1 UC_4_Check_reservation 10 1686502263 0 2
+28 1 UC_3_Search_tickets_without_payment 5 1686502263 0 2
+28 1 UC_4_Check_reservation 6 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 1 1686502263 0 2
+28 1 UC_3_Search_tickets_without_payment 1 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 5 1686502263 0 2
+28 1 UC_4_Check_reservation 7 1686502263 0 2
+28 1 UC_3_Search_tickets_without_payment 7 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 2 1686502263 0 2
+28 1 UC_4_Check_reservation 8 1686502263 0 2
+28 1 UC_3_Search_tickets_without_payment 6 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 4 1686502263 0 2
+28 1 UC_4_Check_reservation 3 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 3 1686502263 0 2
+28 1 UC_4_Check_reservation 1 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 10 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 6 1686502263 0 2
+28 1 UC_4_Check_reservation 5 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 8 1686502263 0 2
+28 1 UC_4_Check_reservation 2 1686502263 0 2
+28 1 UC_06_SearchTicketNoSelect 7 1686502263 0 2
+28 1 UC_4_Check_reservation 9 1686502263 0 2
+28 1 UC_1_Buy_a_ticket 4 1686502265 0 2
+28 1 UC_3_Search_tickets_without_payment 8 1686502267 0 2
+28 1 UC_2_Deliting_a_reservation 5 1686502267 0 2
+28 1 UC_5_creatingNewAccount 5 1686502268 0 2
+28 1 UC_5_creatingNewAccount 2 1686502270 0 2
+28 1 UC_2_Deliting_a_reservation 2 1686502270 0 2
+28 1 UC_2_Deliting_a_reservation 3 1686502270 0 2
+28 1 UC_5_creatingNewAccount 3 1686502272 0 2
+28 1 UC_4_Check_reservation 4 1686502272 0 2
+28 1 UC_1_Buy_a_ticket 9 1686502272 0 2
+28 1 UC_3_Search_tickets_without_payment 9 1686502273 0 2
+28 1 UC_3_Search_tickets_without_payment 2 1686502273 0 2
+28 1 UC_1_Buy_a_ticket 8 1686502277 0 2
+28 1 UC_2_Deliting_a_reservation 4 1686502278 0 2
+28 1 UC_1_Buy_a_ticket 2 1686502279 0 2
+28 1 UC_1_Buy_a_ticket 3 1686502280 0 2
+28 1 UC_3_Search_tickets_without_payment 3 1686502280 0 2
+28 1 UC_5_creatingNewAccount 1 1686502280 0 2
+28 1 UC_2_Deliting_a_reservation 1 1686502280 0 2
+28 1 UC_5_creatingNewAccount 4 1686502283 0 2
+28 1 UC_3_Search_tickets_without_payment 10 1686502283 0 2
+28 1 UC_3_Search_tickets_without_payment 4 1686502287 0 2
+28 1 UC_1_Buy_a_ticket 1 1686502288 0 2
+28 1 UC_1_Buy_a_ticket 6 1686502292 0 2
+28 1 UC_1_Buy_a_ticket 7 1686502295 0 2
+28 1 UC_1_Buy_a_ticket 10 1686502298 0 2
+28 1 UC_1_Buy_a_ticket 5 1686502298 0 2
+28 12 1686502298 1 1686502298 0 1686502298

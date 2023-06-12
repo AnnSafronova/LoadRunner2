@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\users\diana\onedrive\рабочий стол\сценарии и результаты\отладочный4\localhost_1.eve

@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\Users\diana\OneDrive\Рабочий стол\сценарии и результаты\Сценарии\тест_поиска_макс4.lrs
+Completed=0
